@@ -16,4 +16,4 @@ spec:
           service:
             name: hello-arc
             port: 
-              number: 80
+              number: 8080
